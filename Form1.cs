@@ -50,6 +50,7 @@ namespace Spencer_s_Simple_OCR
         void Convert()
         {
             temp = "";
+            ProcessingScreen.Text = "";
             var ext = new List<string> { ".bmp", ".png", ".jpeg", ".jpg", ".tiff" };
             foreach (var file in InputFolderDir.GetFiles("*.*", SearchOption.TopDirectoryOnly).Where(s => ext.Contains(Path.GetExtension(s.FullName).ToLowerInvariant())))
             {
