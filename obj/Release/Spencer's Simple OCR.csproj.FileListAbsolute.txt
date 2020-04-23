@@ -1,0 +1,16 @@
+C:\Users\Spencer\source\repos\Spencer's Simple OCR\bin\Release\Spencer's Simple OCR.exe.config
+C:\Users\Spencer\source\repos\Spencer's Simple OCR\bin\Release\Spencer's Simple OCR.exe
+C:\Users\Spencer\source\repos\Spencer's Simple OCR\bin\Release\Spencer's Simple OCR.pdb
+C:\Users\Spencer\source\repos\Spencer's Simple OCR\obj\Release\Spencer's Simple OCR.csprojAssemblyReference.cache
+C:\Users\Spencer\source\repos\Spencer's Simple OCR\obj\Release\Spencer_s_Simple_OCR.Form1.resources
+C:\Users\Spencer\source\repos\Spencer's Simple OCR\obj\Release\Spencer_s_Simple_OCR.Properties.Resources.resources
+C:\Users\Spencer\source\repos\Spencer's Simple OCR\obj\Release\Spencer's Simple OCR.csproj.GenerateResource.cache
+C:\Users\Spencer\source\repos\Spencer's Simple OCR\obj\Release\Spencer's Simple OCR.csproj.CoreCompileInputs.cache
+C:\Users\Spencer\source\repos\Spencer's Simple OCR\obj\Release\Spencer's Simple OCR.exe
+C:\Users\Spencer\source\repos\Spencer's Simple OCR\obj\Release\Spencer's Simple OCR.pdb
+C:\Users\Spencer\source\repos\Spencer's Simple OCR\bin\Release\x86\liblept1753.dll
+C:\Users\Spencer\source\repos\Spencer's Simple OCR\bin\Release\x86\libtesseract3052.dll
+C:\Users\Spencer\source\repos\Spencer's Simple OCR\bin\Release\x64\liblept1753.dll
+C:\Users\Spencer\source\repos\Spencer's Simple OCR\bin\Release\x64\libtesseract3052.dll
+C:\Users\Spencer\source\repos\Spencer's Simple OCR\bin\Release\Tesseract.dll
+C:\Users\Spencer\source\repos\Spencer's Simple OCR\obj\Release\Spencer's Simple OCR.csproj.CopyComplete
